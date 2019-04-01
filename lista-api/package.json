@@ -1,0 +1,22 @@
+{
+  "name": "lista-api",
+  "version": "0.0.5",
+  "description": "A Node.js wrapper for the Lista REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --fix"
+  },
+  "author": "Nick Garlis",
+  "keywords": [
+    "lista",
+    "lista-api"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "humps": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
